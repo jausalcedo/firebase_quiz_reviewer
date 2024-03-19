@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985349725402",
+    "project_id": "fir-quiz-a93ed",
+    "storage_bucket": "fir-quiz-a93ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985349725402:android:7dd7a9a54494ed3ba719e3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdgaxUBscUCHoiBcqS9KS3sB6kGRILFD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
